@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" alt="Python" />
 </p>
 
-<h2 align="center">Front End Expertise</h2>
+<h2 align="center">Front End Technologies</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3" alt="CSS" />
@@ -17,9 +17,11 @@
   <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/MaterialUI-000000?style=for-the-badge&logo=materialdesign" alt="MUI" />
   <img src="https://img.shields.io/badge/ChakraUI-000000?style=for-the-badge&logo=chakraui" alt="ChakraUI" />
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite" alt="Vite" />
+  <img src="https://img.shields.io/badge/Solid-000000?style=for-the-badge&logo=solid" alt="Solid" />
 </p>
 
-<h2 align="center">Back End Expertise</h2>
+<h2 align="center">Back End Technologies</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring" alt="Spring" />
   <img src="https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=nodedotjs" alt="NodeJS" />
