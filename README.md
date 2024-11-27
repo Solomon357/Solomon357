@@ -25,6 +25,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring" alt="Spring" />
   <img src="https://img.shields.io/badge/Node.JS-000000?style=for-the-badge&logo=nodedotjs" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express.JS-000000?style=for-the-badge&logo=express" alt="ExpressJS" />
 </p>
 
 <h2 align="center">Deployment & Cloud Services</h2>
