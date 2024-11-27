@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase" alt="Firebase" />
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render" alt="Render" />
+  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify" alt="Netlify" />
 </p>
 
 <h2 align="center">Database Management</h2>
